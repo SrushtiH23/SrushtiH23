@@ -1,12 +1,16 @@
-# Hi, I'm **Srushti Manohar Hosamani** 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=C%2B%2B+Development+Enthusiast;Turning+Coffee+into+Code+%E2%98%95;Exploring+Backend+Development;Currently+Learning+PostgreSQL;Building+Projects+That+Matter+%F0%9F%9A%80" alt="Typing SVG"/>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3000&pause=1000&color=FF5C93&center=true&vCenter=true&width=800&lines=%3E_+Hello!+I'm+Srushti" />
 </p>
 
 <p align="center">
   <img src="./code_girl.gif" width="350" alt="Girl Coding">
+</p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=C%2B%2B+Development+Enthusiast;Turning+Coffee+into+Code+%E2%98%95;Exploring+Backend+Development;Currently+Learning+PostgreSQL;Building+Projects+That+Matter+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
+
+
+
 
 ---
 
