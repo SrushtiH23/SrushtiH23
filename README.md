@@ -139,7 +139,7 @@ Learning database internals by exploring SQLite source code.
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/srushti-h23">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
