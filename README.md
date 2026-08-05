@@ -139,14 +139,12 @@ Learning database internals by exploring SQLite source code.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/srushti-h23/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/srushti-h23">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:srushtihosamanirbg@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
