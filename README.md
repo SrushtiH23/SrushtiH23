@@ -110,13 +110,15 @@ Learning database internals by exploring SQLite source code.
 
 ---
 
-# 🎮 Contribution Game
+## 🎮 Contribution Game
+
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/SrushtiH23/SrushtiH23/output/dist/pacman-contribution-graph-dark.svg"
+    alt="Pacman Contribution Graph"
+    width="100%">
 </p>
-
-> Your contribution graph turns into a snake game that "eats" your commits.
 
 
 ---
