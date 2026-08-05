@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./coding-girl.gif" width="350" alt="Girl Coding">
+  <img src="./code_girl.gif" width="350" alt="Girl Coding">
 </p>
 
 ---
